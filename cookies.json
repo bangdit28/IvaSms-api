@@ -1,1 +1,32 @@
-#Your Json Formated Cookies Here
+[
+  {
+    "name": "ivas_sms_session",
+    "value": "eyJpdiI6Ik15cnI5NUNRQ1pXcGFOVFdrRXNvb2c9PSIsInZhbHVlIjoicDZkT05mSnFEYnNSUGhGWE1KY3B6eTgxaDdra0pLLzVwc3l2TGJpMXVSMXlMQVVRZjZjZEt1SzlRdm1GZnY2UXNsemVaTTRYVVRxS2RsaVczbHlPWVNndlpra3A4UGJWNURuL3BPNXhIS1Nld3pEYTlJT1crUms0TC9kd0E1UU8iLCJtYWMiOiIzNDM1MWRmMmY0NDcwZDI2M2UzNGJmM2NmZjMxZWI5ZWIzYzI1OWRjNTk2MWZmYjU0ZTQwOWFmYjY1MGYyNjczIiwidGFnIjoiIn0%3D",
+    "domain": "www.ivasms.com"
+  },
+  {
+    "name": "cf_clearance",
+    "value": "LfL8fzOj4h6jsaZBLkyYffd7FnFh9p4ZSPgLR6aJq8s-1764863882-1.2.1.1-xoi_5OrvDruciLry53zHg_Z8mC0Qwkf08tS9x4QWHCyZW.Z6_SQffyRjcd3MO79JkGeoBjNTrZTtJhkRqVxMkE0E2w6c9jHREVHckovFjHwnXkjpJrnoY..XxKtomHl83BDZmb2m8ESw9rurB4Oibcgvk6ZcRaQjqKk94Ib5IKZ_lOaw0cpFxt7fnHtln9meCpN6PyKASlRTBp392B7Ct.U2wL18i_WizlCujwxlVqM",
+    "domain": ".ivasms.com"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.737951065.1764863908",
+    "domain": ".ivasms.com"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.1458570497.1760369509",
+    "domain": ".ivasms.com"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1760369509119.173485893667953723",
+    "domain": ".ivasms.com"
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6InNQNDRkY09YWmR0Zm1SZldhSVcwNUE9PSIsInZhbHVlIjoiS29jd0YvRithK3A5ZE4vc3BMRmwxdlRGcWpBOGZOS1hYZFZMaWdHY01TM3NiTVRRbHdTdk01QnhIVVhXZ2dVYVlHS3VVTkRHT00wUTdmNW5PNS9hQzJUZWlDZW1pdlhyTVZ3czBxY3BYQkNxSHJrSDBJMEtWL00xN29kbSs1OWsiLCJtYWMiOiJjM2IwODVmODkyYzA0YjFmZTJkY2VmOTQyYzA5MzBkMDQ3NTBlNDJhZGYzZGNiZDNjNTBkMTYxY2Y1NWFiYmRhIiwidGFnIjoiIn0%3D",
+    "domain": "www.ivasms.com"
+  }
+]
